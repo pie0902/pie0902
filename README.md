@@ -1,3 +1,1 @@
-<div align=center>
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontSize=90)
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=👋%20Welcome%20to%20my%20GitHub!&textBg=false&fontAlign=50&fontAlignY=48&descAlign=42&descAlignY=15&rotate=0&fontSize=28&reversal=false&fontColor=000000)
