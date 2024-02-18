@@ -6,3 +6,6 @@
 
 📈 프로젝트와 공부에 관한 더 많은 것을 알고 싶다면, 제 깃허브를 둘러보세요. 저의 성장 과정을 함께 지켜봐 주시길 바랍니다. 감사합니다! 🙏
 
+
+[Java 학습 기록](https://github.com/pie0902/study_java/blob/main/README.md)
+[Java 개인 프로젝트 NewTodo](https://github.com/pie0902/newTodo/tree/main)
