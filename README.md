@@ -7,5 +7,6 @@
 📈 프로젝트와 공부에 관한 더 많은 것을 알고 싶다면, 제 깃허브를 둘러보세요. 저의 성장 과정을 함께 지켜봐 주시길 바랍니다. 감사합니다! 🙏
 
 
-1. [Java 학습 기록](https://github.com/pie0902/study_java/blob/main/README.md)<br>
-2. [Java 개인 프로젝트 NewTodo](https://github.com/pie0902/newTodo/tree/main)
+1. Java 기초 문법 학습 기록 [Java 학습 기록](https://github.com/pie0902/study_java/blob/main/README.md)<br>
+2. Java 학생 관리 시스템 [Java 팀 프로젝트](https://github.com/pie0902/student-management-system)<br>
+3. Spring CRUD 구현 [Spring 개인 프로젝트 NewTodo](https://github.com/pie0902/newTodo/tree/main)<br>
