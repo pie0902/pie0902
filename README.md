@@ -10,6 +10,6 @@
 1. Java 기초 문법 학습 기록<br>[Java 학습 기록](https://github.com/pie0902/study_java/blob/main/README.md)<br>
 2. Java 키오스크<br>[Java 개인 프로젝트](https://github.com/pie0902/kiosk)<br>
 3. Java 학생 관리 시스템<br>[Java 팀 프로젝트](https://github.com/pie0902/student-management-system)<br>
-4. Java 학생 관리 시스템(개인 ver)[Java 학생 관리 시스템](https://github.com/pie0902/studentAdmin)<br>
+4. Java 학생 관리 시스템(개인 ver)<br>[Java 학생 관리 시스템](https://github.com/pie0902/studentAdmin)<br>
 5. Spring CRUD 구현<br>[Spring 개인 프로젝트 NewTodo](https://github.com/pie0902/newTodo/tree/main)<br>
 6. Spring 숙박 업소 프로그렘<br>[Spring 팀 프로젝트 RoomRoomBnB](https://github.com/RoomRoomBnB/roombnb)
