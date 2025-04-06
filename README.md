@@ -8,4 +8,4 @@
 ## Contact
 - Feel free to reach out for collaborations or any questions!
 
-📧 Email: [ji4971@naver.com](mailto:ji4971@naver.com)
+📧 Email: [thunderbizlab@gmail.com](mailto:thunderbizlab@gmail.com)
