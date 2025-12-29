@@ -9,3 +9,6 @@
 - Feel free to reach out for collaborations or any questions!
 
 📧 Email: [thunderbizlab@gmail.com](mailto:thunderbizlab@gmail.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pie0902&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
